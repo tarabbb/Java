@@ -32,7 +32,7 @@ public class StudentPlayer extends SaboteurPlayer {
 	 * associate you with your agent. The constructor should do nothing else.
 	 */
 	public StudentPlayer() {
-		super("260761573");
+		super("       ");
 	}
 
 	/**
